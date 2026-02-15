@@ -1,16 +1,9 @@
-[toolchain]
-anchor_version = "0.30.0"
-solana_version = "1.18.0"
-
 [features]
 seeds = false
 skip-lint = false
 
 [programs.devnet]
-mommy_token = "MoMMYAi111111111111111111111111111111111111"
-
-[registry]
-url = "https://api.apr.dev"
+mommy_token = "MoMMyAi111111111111111111111111111111111111"
 
 [provider]
 cluster = "devnet"
