@@ -8,4 +8,3 @@ mommy_token = "MoMMyAi111111111111111111111111111111111111"
 [provider]
 cluster = "devnet"
 wallet = "~/.config/solana/id.json"
-
