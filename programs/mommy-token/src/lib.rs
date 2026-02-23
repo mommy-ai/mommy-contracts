@@ -14,3 +14,4 @@ pub mod mommy_token {
 
 #[derive(Accounts)]
 pub struct Initialize {}
+
